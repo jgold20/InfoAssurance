@@ -1,0 +1,5 @@
+PERM = p1-<grades : write>, p2-<grades : read>
+ROLES = <Student>, <Professor>, <Dean>
+USERS = <Josie>,<Carlos>,<Kyle>
+RA = <Josie : Student>,<Carlos : Professor>, <Kyle : Dean>
+PA = <Student : p1>, <Professor : p1>, <Professor : p2>, <Dean : p1>
